@@ -1,9 +1,5 @@
 # Ey Terminal Screensaver
 
-gif 1 // gif 2
-
-![alt text](Ey-full-colour.gif)
-
 EY Screensaver inspired by [pipes.sh](https://github.com/pipeseroni/pipes.sh)
 
 Steps to run:
@@ -15,3 +11,6 @@ Steps to run:
 Or you can just copy and paste the code into your terminal window :)
 
 PRs welcome!
+
+![yellow only screensaver](Ey-yellow-only.gif)
+![full colour screensaver](Ey-full-colour.gif)
